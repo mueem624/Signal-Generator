@@ -1,0 +1,29 @@
+{
+  "singleLine": {
+    "mandatory": ["text", "textColor"],
+    "optional": ["region","location","textBackgroundColor", "textSize"]
+  },
+  "multiItem": {
+    "mandatory": ["items"],
+    "optional": ["backgroundColor", "fontSize", "textColor", "textbackgroundColor"]
+  },
+  "button": {
+    "mandatory": ["text", "region"],
+    "optional": ["location","textBackgroundColor", "textSize","textColor"]
+  },
+  "colorBackground": {
+    "mandatory": ["items"],
+    "optional": ["backgroundColor", "fontSize", "textColor", "textbackgroundColor"]
+  },
+  "videoBackground": {
+    "mandatory": ["items"],
+    "optional": ["backgroundColor", "fontSize", "textColor", "textbackgroundColor"]
+  },
+  "imageBackground": {
+    "mandatory": ["items"],
+    "optional": ["backgroundColor", "fontSize", "textColor", "textbackgroundColor"]
+  }
+
+
+
+}

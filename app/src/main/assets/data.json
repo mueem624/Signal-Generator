@@ -1,0 +1,1381 @@
+{
+  "defaultSettings": {
+    "textSize": "12",
+    "textColor": "Yellow",
+    "backgroundColor": "black",
+    "textBackgroundColor": "#00ff0000"
+  },
+
+  "data": {
+    "ocrPages": [
+      {
+        "action": "multiItem",
+        "items": [
+          {
+            "action": "button",
+            "text": " Close ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              362,
+              1248,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          }
+        ]
+      },
+      {
+        "action": "singleLine",
+        "text": "Berlin is a capital city of Germany",
+        "textColor": "white",
+        "location": [
+          163,
+          244
+        ]
+      },
+      {
+        "action": "multiItem",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "Apps",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              488
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "TV Guide",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              668
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Home",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              848
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Video Store",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1022
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "TV on Demand",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1206
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Search",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1388
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Notifications",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1565
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Settings",
+            "textColor": "white",
+            "textSize": "16",
+            "location": [
+              153,
+              1870
+            ]
+          }
+        ]
+      },
+      {
+        "action": "multiItem",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "System Settings",
+            "textColor": "white",
+            "textSize": "16",
+            "location": [
+              140,
+              723
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "System Settings",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              1350,
+              435
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Standby Settings",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              1350,
+              872
+            ]
+          },
+          {
+            "action": "button",
+            "text": "Open System Settings",
+            "textSize": "14",
+            "textColor": "black",
+            "region": [
+              1350,
+              580,
+              895,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": "Change Standby Settings",
+            "textSize": "14",
+            "textColor": "black",
+            "region": [
+              1350,
+              1022,
+              905,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "singleLine",
+            "text": "Language & Audio",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              140,
+              897
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Channel List",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              140,
+              1054
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "PIN & Data Privacy",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              140,
+              1212
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Logout",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              140,
+              1370
+            ]
+          }
+        ]
+      },
+      {
+        "action": "multiItem",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "Settings",
+            "textSize": "17",
+            "textColor": "white",
+            "location": [
+              2495,
+              208
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Device",
+            "textSize": "11",
+            "textColor": "white",
+            "location": [
+              2494,
+              427
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Network",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              2690,
+              601
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Google Cast",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              2670,
+              791
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Sound",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              2670,
+              981
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "HDMI preferences",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              2690,
+              1171
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Apps",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              2690,
+              1351
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Screen Saver",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              2690,
+              1541
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Storage & reset",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              2690,
+              1731
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "About",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              2690,
+              1921
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "preferences",
+            "textSize": "10",
+            "textColor": "white",
+            "location": [
+              2495,
+              2100
+            ]
+          }
+        ]
+      },
+      {
+        "action": "multiItem",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "09:30-10:00",
+            "textSize": "14",
+            "textColor": "white",
+            "location": [
+              384,
+              1000
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Bad Boys",
+            "textSize": "31",
+            "textColor": "white",
+            "location": [
+              384,
+              1074
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "00:26",
+            "textSize": "14",
+            "textColor": "white",
+            "location": [
+              384,
+              1558
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "3",
+            "textSize": "31",
+            "textColor": "white",
+            "location": [
+              3384,
+              1074
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "60:00",
+            "textSize": "14",
+            "textColor": "white",
+            "location": [
+              3332,
+              1556
+            ]
+          },
+          {
+            "action": "button",
+            "text": "Close",
+            "textSize": "15",
+            "textColor": "black",
+            "region": [
+              394,
+              1664,
+              608,
+              158
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": "Show Details",
+            "textSize": "15",
+            "textColor": "black",
+            "region": [
+              1030,
+              1670,
+              568,
+              150
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "singleLine",
+            "text": "Related",
+            "textColor": "white",
+            "textSize": "16",
+            "location": [
+              440,
+              1940
+            ]
+          }
+        ]
+      }
+    ],
+    "moviePages": [
+      {
+        "action": "videoBackground",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "Alles was zahlt E3466",
+            "textSize": "31",
+            "textColor": "white",
+            "location": [ 675,436] }],
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+      },
+      {
+        "action": "videoBackground",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "09:30-10:00",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              384,
+              1000
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Alles was zahlt E3466",
+            "textSize": "31",
+            "textColor": "white",
+            "location": [
+              390,
+              1074
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "00:26",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              384,
+              1558
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "3",
+            "textSize": "31",
+            "textColor": "white",
+            "location": [
+              3388,
+              1074
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "60:00",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              3332,
+              1556
+            ]
+          },
+          {
+            "action": "button",
+            "text": "Close",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              394,
+              1664,
+              600,
+              152
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": "Show Details",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              1030,
+              1670,
+              568,
+              150
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "singleLine",
+            "text": "Related",
+            "textColor": "white",
+            "textSize": "16",
+            "location": [
+              440,
+              1940
+            ]
+          }
+        ],
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+      },
+      {
+        "action": "videoBackground",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "16",
+            "textColor": "black",
+            "textSize": "12",
+            "region": [
+              400,
+              438,
+              80,
+              56
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": " €4,99 Rent| 2 days ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              362,
+              1248,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": " Add to watchlist ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              1089,
+              1248,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": " Trailer ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              1814,
+              1248,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "singleLine",
+            "text": " Related ",
+            "textSize": "13",
+            "textColor": "white",
+            "location": [
+              392,
+              1606
+            ]
+          },
+          {
+            "action": "button",
+            "text": " Read more ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              2543,
+              1248,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "singleLine",
+            "text": "HD ",
+            "textColor": "black",
+            "textSize": "12",
+            "textBackgroundColor": "white",
+            "region": [
+              504,
+              438,
+              80,
+              56
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "DE ",
+            "textColor": "black",
+            "textSize": "12",
+            "textBackgroundColor": "white",
+            "region": [
+              606,
+              438,
+              80,
+              56
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "EN ",
+            "textColor": "black",
+            "textSize": "12",
+            "textBackgroundColor": "white",
+            "region": [
+              706,
+              438,
+              80,
+              56
+            ]
+          }
+        ],
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+      },
+      {
+        "action": "videoBackground",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "Until Fri 12. Jun| 13:25",
+            "textColor": "white",
+            "textSize": "12",
+            "location": [
+              384,
+              1000
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Onward: Keine halben Sachen",
+            "textColor": "white",
+            "textSize": "31",
+            "location": [
+              424,
+              1100
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "00:22",
+            "textColor": "white",
+            "textSize": "12",
+            "location": [
+              384,
+              1556
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "98:20",
+            "textColor": "white",
+            "textSize": "12",
+            "location": [
+              3332,
+              1556
+            ]
+          },
+          {
+            "action": "button",
+            "text": "Close",
+            "textColor": "black",
+            "textSize": "15",
+            "region": [
+              384,
+              1664,
+              604,
+              160
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": "Restart",
+            "textColor": "black",
+            "textSize": "15",
+            "region": [
+              1040,
+              1664,
+              604,
+              160
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": "Add to watchlist",
+            "textColor": "black",
+            "textSize": "15",
+            "region": [
+              1696,
+              1664,
+              604,
+              160
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": "Stop",
+            "textColor": "black",
+            "textSize": "15",
+            "region": [
+              2352,
+              1664,
+              604,
+              160
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": "Audio",
+            "textColor": "black",
+            "textSize": "15",
+            "region": [
+              3008,
+              1664,
+              604,
+              160
+            ],
+            "textBackgroundColor": "white"
+          }
+        ],
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+      }
+    ],
+    "imagePages": [
+      {
+        "action": "imageBackground",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "16",
+            "textColor": "black",
+            "textSize": "12",
+            "region": [
+              400,
+              438,
+              80,
+              56
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": " €4,99 Rent| 2 days ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              362,
+              1268,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "singleLine",
+            "text": " Bad Boys for Life",
+            "textSize": "31",
+            "textColor": "white",
+            "location": [
+              362,
+              200
+            ]
+          },
+          {
+            "action": "button",
+            "text": " Add to watchlist ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              1089,
+              1268,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": " Trailer ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              1814,
+              1268,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "singleLine",
+            "text": " Related ",
+            "textSize": "13",
+            "textColor": "white",
+            "location": [
+              392,
+              1606
+            ]
+          },
+          {
+            "action": "button",
+            "text": " Read more ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              2543,
+              1268,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "singleLine",
+            "text": "HD ",
+            "textColor": "black",
+            "textSize": "12",
+            "textBackgroundColor": "white",
+            "region": [
+              504,
+              438,
+              80,
+              56
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "DE ",
+            "textColor": "black",
+            "textSize": "12",
+            "textBackgroundColor": "white",
+            "region": [
+              606,
+              438,
+              80,
+              56
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "EN ",
+            "textColor": "black",
+            "textSize": "12",
+            "textBackgroundColor": "white",
+            "region": [
+              704,
+              438,
+              80,
+              56
+            ]
+          }
+        ],
+        "imageUrl": "https://i.pinimg.com/originals/97/cc/16/97cc16cf2f6542cc323c624ba983b4e3.jpg"
+      },
+      {
+        "action": "imageBackground",
+        "items": [
+          {
+            "action": "button",
+            "text": " €4,99 Rent| 2 days ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              362,
+              1248,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": " Add to watchlist ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              1089,
+              1248,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "button",
+            "text": " Trailer ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              1814,
+              1248,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "singleLine",
+            "text": " Related ",
+            "textSize": "13",
+            "textColor": "white",
+            "location": [
+              392,
+              1606
+            ]
+          },
+          {
+            "action": "button",
+            "text": " Read more ",
+            "textSize": "16",
+            "textColor": "black",
+            "region": [
+              2543,
+              1248,
+              688,
+              162
+            ],
+            "textBackgroundColor": "white"
+          },
+          {
+            "action": "singleLine",
+            "text": "HD ",
+            "textColor": "black",
+            "textSize": "12",
+            "textBackgroundColor": "white",
+            "region": [
+              504,
+              438,
+              80,
+              56
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "DE ",
+            "textColor": "black",
+            "textSize": "12",
+            "textBackgroundColor": "white",
+            "region": [
+              606,
+              438,
+              80,
+              56
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "EN ",
+            "textColor": "black",
+            "textSize": "12",
+            "textBackgroundColor": "white",
+            "region": [
+              704,
+              438,
+              80,
+              56
+            ]
+          }
+        ],
+        "imageUrl": "https://wallpaperaccess.com/full/945950.jpg"
+      },
+      {
+        "action": "imageBackground",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "Sing meinen Song-Das",
+            "textColor": "white",
+            "textSize": "20",
+            "location": [
+              1382,
+              185
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Highlights aus den Mediatheken",
+            "textColor": "black",
+            "textSize": "17",
+            "textBackgroundColor": "black",
+            "region": [
+              0,
+              0,
+              1040,
+              2160
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Highlights aus den Mediatheken",
+            "textColor": "white",
+            "textSize": "17",
+            "location": [
+              1382,
+              842
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "11:57  Wed 10.Jun",
+            "textColor": "white",
+            "textSize": "13",
+            "location": [
+              158,
+              183
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Top-Formate Des Monats",
+            "textColor": "white",
+            "textSize": "17",
+            "location": [
+              1382,
+              1952
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Apps",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              488
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "TV Guide",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              668
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Home",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              848
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Video Store",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1022
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "TV on Demand",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1206
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Search",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1388
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Notifications",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1565
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Settings",
+            "textColor": "white",
+            "textSize": "16",
+            "location": [
+              153,
+              1870
+            ]
+          }
+        ],
+        "imageUrl": "https://wallpaperaccess.com/full/893689.jpg"
+      },
+      {
+        "action": "imageBackground",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "12:51",
+            "textColor": "black",
+            "textBackgroundColor": "black",
+            "textSize": "11",
+            "region": [
+              0,
+              0,
+              300,
+              2160
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "12:51",
+            "textColor": "white",
+            "textSize": "11",
+            "location": [
+              115,
+              187
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Netflix",
+            "textColor": "white",
+            "textSize": "16",
+            "location": [
+              636,
+              326
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Featured Apps",
+            "textColor": "white",
+            "textSize": "15",
+            "location": [
+              636,
+              750
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Google Apps",
+            "textColor": "white",
+            "textSize": "15",
+            "location": [
+              636,
+              1650
+            ]
+          }
+        ],
+        "imageUrl": "https://i.imgur.com/esFVbHK.jpg"
+      }
+    ],
+    "colorPages": [
+      {
+        "action": "colorBackground",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "Apps",
+            "textSize": "15",
+            "textColor": "white",
+            "location": [
+              326,
+              488
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "TV Guide",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              668
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Home",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              848
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Video Store",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1022
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "TV on Demand",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1206
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Search",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1388
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Notifications",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1565
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Settings",
+            "textColor": "white",
+            "textSize": "16",
+            "location": [
+              153,
+              1870
+            ]
+          }
+        ],
+        "backgroundColor": "#6A1B9A"
+      },
+      {
+        "action": "colorBackground",
+        "items": [
+          {
+            "action": "singleLine",
+            "text": "Apps",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              488
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "TV Guide",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              668
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Home",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              848
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Video Store",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1022
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "TV on Demand",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1206
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Search",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1388
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Notifications",
+            "textSize": "16",
+            "textColor": "white",
+            "location": [
+              326,
+              1565
+            ]
+          },
+          {
+            "action": "singleLine",
+            "text": "Settings",
+            "textColor": "white",
+            "textSize": "16",
+            "location": [
+              153,
+              1870
+            ]
+          }
+        ],
+        "backgroundColor": "#26A69A"
+      }
+
+    ]
+
+  }
+}
